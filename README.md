@@ -97,48 +97,16 @@ Usage: Type 'gh profile' → Goes to github.com/profile
 - `background.js`: URL monitoring and redirection
 - `styles.css`: Visual styling
 
-## Contributing
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
+### Steps to use the extension ( URL Shortcuts - Chrome Extension)
 
-## Troubleshooting
-
-### Common Issues
-1. **Shortcuts not working**
-   - Ensure the shortcut is typed in the address bar
-   - Check if the shortcut was saved properly
-   - Verify the URL format is correct
-
-2. **Extension not loading**
-   - Verify all files are present
-   - Check for console errors
-   - Ensure manifest.json is valid
-
-3. **Icons not showing**
-   - Confirm icons are in the correct directory
-   - Verify icon sizes (48x48 and 128x128)
-   - Check file names match manifest
-
-### Debug Mode
-1. Right-click the extension icon
-2. Select "Inspect popup"
-3. Check the Console tab for errors
-
-## Steps to use the extension ( URL Shortcuts)
-
-Open Chrome browser
-Type chrome://extensions/ in the address bar and press Enter
-Enable "Developer mode" by toggling the switch in the top-right corner
-Click the "Load unpacked" button
-Navigate to and select your url-shortcuts directory
-
-Click the extension icon in your Chrome toolbar (you might need to pin it first)
-Add some shortcuts of your choice
-In a new tab, type your shortcut in the address bar:
-
+1.Open Chrome browser
+2.Type chrome://extensions/ in the address bar and press Enter
+3.Enable "Developer mode" by toggling the switch in the top-right corner
+4.Click the "Load unpacked" button
+5.Navigate to and select your url-shortcuts directory
+6.Click the extension icon in your Chrome toolbar (you might need to pin it first)
+7.Add some shortcuts of your choice
+8.In a new tab, type your shortcut in the address bar:
 
 ---
 
