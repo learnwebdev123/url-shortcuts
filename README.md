@@ -15,7 +15,7 @@ Quick URL Shortcuts is a Chrome extension that transforms how you navigate the w
 ### Developer Mode Installation
 1. Clone this repository or download the source code:
 ```bash
-git clone https://github.com/yourusername/url-shortcuts.git
+git clone https://github.com/learnwebdev123/url-shortcuts.git
 ```
 
 2. Open Chrome and navigate to `chrome://extensions/`
