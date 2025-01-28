@@ -99,14 +99,14 @@ Usage: Type 'gh profile' → Goes to github.com/profile
 
 ### Steps to use the extension ( URL Shortcuts - Chrome Extension)
 
-1.Open Chrome browser
-2.Type chrome://extensions/ in the address bar and press Enter
-3.Enable "Developer mode" by toggling the switch in the top-right corner
-4.Click the "Load unpacked" button
-5.Navigate to and select your url-shortcuts directory
-6.Click the extension icon in your Chrome toolbar (you might need to pin it first)
-7.Add some shortcuts of your choice
-8.In a new tab, type your shortcut in the address bar:
+- Open Chrome browser
+- Type chrome://extensions/ in the address bar and press Enter
+- Enable "Developer mode" by toggling the switch in the top-right corner
+- Click the "Load unpacked" button
+- Navigate to and select your url-shortcuts directory
+- Click the extension icon in your Chrome toolbar (you might need to pin it first)
+- Add some shortcuts of your choice
+- In a new tab, type your shortcut in the address bar:
 
 ---
 
